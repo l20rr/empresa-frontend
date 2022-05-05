@@ -19,3 +19,6 @@ Em Routes está separada cada rota e suas permissões.
 Aqui temos a dashboard, o gráfico, o login, os produtos e usuários.
 
 /* O grafico está com dados estatísticos, ainda não fiz a ligação com o backend */
+
+# Assets 
+Disponibilizei imagens do sitema!
